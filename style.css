@@ -86,8 +86,7 @@ a.active,a:hover{
         top: 80px;
         left: -100%;
         text-align: center;
-        transition: all .5s ;
-        
+        transition: all .5s;  
     }
     nav ul li {
         display: block;
@@ -100,8 +99,13 @@ a.active,a:hover{
         background: none;
         color: #0082e6;
     }
-
     #check:checked ~ ul{
         left: 0;
     }
 }
+
+
+
+
+
+
